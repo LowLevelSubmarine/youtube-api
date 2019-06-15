@@ -9,7 +9,7 @@ Just create a new *YouTubeApi* object and start with the *search(String)* method
 **Gradle**
 ```gradle
 dependencies {
-   implementation 'com.github.LowLevelSubmarine:youtube-api:v1.0.0'
+   implementation 'com.github.LowLevelSubmarine:youtube-api:v1.0.1'
 }
 
 repositories {
